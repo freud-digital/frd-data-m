@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1905-004; 1905d): Drei Abhandlungen zur Sexualtheorie</title>
+            <title type="manifestation" level="a">Einband (1905-004/1920)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="doc_component">
+               Einband
+            </note>
+            <note type="man_type">
+               Historische Ausgaben
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1905-004-1920.04">
+                     <analytic>
+                        <title type="manifestation">Note 3 [zur 4. Auflage]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1915">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <title type="manifestation-short">3., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1915-01-01">1915-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1920.01">
+                     <analytic>
+                        <title type="manifestation">Vorwort zur vierten Auflage der Drei Abhandlungen zur Sexualtheorie	</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">[Reinschrift]</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1922">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <title type="manifestation-short">5., unveränderte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1924">
+                     <analytic>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>119 Seiten</extent>                        <biblScope unit="volume">5. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1925">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie </title>
+                        <title type="manifestation-short">6., durchgesehene Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1905">
+                     <analytic>
+                        <title type="manifestation">Einband (Broschur)</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1920.02">
+                     <analytic>
+                        <title type="manifestation">Vorwort zur vierten Auflage der Drei Abhandlungen zur Sexualtheorie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1910">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <title type="manifestation-short">2. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1910-01-01">1910-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1920.03">
+                     <analytic>
+                        <title type="manifestation">Einfügung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004None">
+                     <analytic>
+                        <title type="manifestation">Inhaltsverzeichnis [6.]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1905-004-1920" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Einband</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__f264f8d8-5eeb-4fc3-99e3-2631f286ea1f">
+                        <title>Einband</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-004/1920</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/einband/druckversion-15</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/f264f8d8-5eeb-4fc3-99e3-2631f286ea1f</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__9d035a03-28d7-4013-adaf-63337d78ece4">
+                              <title>Freud, Sigmund  (1905-004; 1905d): Drei Abhandlungen zur Sexualtheorie</title>
+                              <idno type="url">https://www.freud-edition.net/werke/drei-abhandlungen-zur-sexualtheorie</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/9d035a03-28d7-4013-adaf-63337d78ece4</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU">Freud_1920_Drei_Abhandlungen_4te</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="complete">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__9df1513c-bdea-4465-b26d-bd8fc8c73f5b"/>
+            <p rendition="#title">DREI ABHANDLUNGEN ZUR<lb/> SEXUALTHEORIE<lb break="paragraph"/></p> <p>VON<lb break="paragraph"/></p> <p>PROF. DR. SIGM. FREUD<lb break="paragraph"/></p> <p>IN WIEN<lb break="paragraph"/></p> <p>VIERTE, VERMEHRTE AUFLAGE<lb break="paragraph"/></p> <p>LEIPZIG UND WIEN<lb/> FRANZ DEUTICKE<lb/> 1920<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__bcdea717-76a6-4f6b-855a-5cec800f40ba"/>
+            <p>VERLAG-VON'FRANZ DEUTICKE IN LEIPZIG UND WIEN<lb break="paragraph"/></p> <p>Bleuler, Prof£- Dr. E., Die Psychoanalyse Freuds, Verteidigung und<lb/> kritische Bemerkungen. Preis’ M/625,<lb/> Braun, Prof. De, Herz und Psyche in ihren Wirkungen aufeinander.<lb/> Preis M 15.<lb/> = Breuer, Dr. Josef,:und Freud, Prof, Dr. Sigm, Studien ,fiber Hysterie,<lb/> s Drikte Auflage, Preis A 20—.<lb break="paragraph"/></p> <p>Rerencai, Dr. S, Introjektion und Übertragung. Eine psychoanalytische<lb/> Stadie, (Sonderabdrück aus dem} Jahrbuch fir psychonnalytische und<lb/> psychopatbologache Forschungen, I. Band.) Preis M 250.<lb break="paragraph"/></p> <p>Eließ, Wilhelm, Der Ablauf des Lebens. Giundiegung zur exakten<lb/> Biologie, Preis 4 Is. 2<lb break="paragraph"/></p> <p>,Ereud, Prof, Dr. Siem, Sammlung kleiner Schriften zur Neurosenlehre,<lb break="paragraph"/></p> <p>. 17Sammlung, Aus den Jahren 1893 bis 1906. Dritte Auflage, Preis M 10°50.<lb/> UL ),.; ' Vergiiffen, Neuauflage in Vorbereitung. HE<lb/> : ERS Preis. M 17:50, 3<lb break="paragraph"/></p> <p>Freud, Prof, Dr. Siem, Über Psychoanalyse. Fünf Vorlesungen, 8, Auf<lb/> Jage.- Preis M 6,<lb break="paragraph"/></p> <p>Freud Proß Dr.’ Sigm,, Der.Witz und seine Beziehung zum Unbewußten.<lb/> elie: Auflage in Vorbereitung: i<lb break="paragraph"/></p> <p>Freud, Prof, Dr, Sigm,.Der Wahn und die Träume in W. jJensens T<lb/> „Gradiya”,, (Schriften zur angewandten Seclenkunde, 1, Heft.) Zweite A<lb/> Auflage. Preis-31 6.25, 5<lb break="paragraph"/></p> <p>Ereud, Prof. :Dr..Sigm., Eine Kindheitserinnerung des’Leonardo da Sa<lb/> Vinch (Schriften” zur angewändten Seelenkunde, 27, Heit), Zwelle x<lb/> Auflage. PreisiM 5°—,<lb break="paragraph"/></p> <p>Hitschmann, Dr.' Eduard, Freuds Neurosenlehre. Nach Ihrem gegen“;<lb/> wärtigen Stande zusammenfassend dargestellt. Neue Aufläge in Vorbereitung,<lb break="paragraph"/></p> <p>Jahrbuch tür psychoanalytische und psychopathologlsche For-&gt;<lb break="paragraph"/></p> <p>schungen. Herausgegeben von Prof, Dr. E./Bleuler in Zurich und<lb break="paragraph"/></p> <p>Prof. Dr. .Sigm, Rreud, in Wien. Redigiert von C, G. Jung, Privat.<lb/> dozent der Paychlatrie in’ Zurich,<lb break="paragraph"/></p> <p>: Band. ,1. Halfte; 1909, Preis M 1750;<lb break="paragraph"/></p> <p>nm 1909, „MM ATS0,<lb break="paragraph"/></p> <p>ii mn NO. ir<lb break="paragraph"/></p> <p>En 0 m<lb break="paragraph"/></p> <p>INS en IT<lb break="paragraph"/></p> <p>U 2<lb break="paragraph"/></p> <p>IR LE uf tl Bee<lb/> IV 2 1<lb/> Ye nee19180%,<lb/> Va IB<lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__74f40a3d-bf1a-4fee-935f-02c8ddf1b54a"/>
+            <p>VEREAG- VON FRANZIDEUTICRE IN LEIPZIG UND WIEN<lb break="paragraph"/></p> <p>,Jahrbuch‘ der Psychoanalyse: Herausgegeben von Prof, Dr, .Sigm, Freud<lb/> in Wien. “Redigiert yon Dr. Karl Abraham in‘Berlin “und Dr, Eduard<lb/> Hitschmann in Wien, Neue Folge des Jahrbuches für psrchoanalyt, und<lb/> psychopath, Forschungen. VI. Band, 191%. Mit einer Tafel. Preis 2.33.<lb break="paragraph"/></p> <p>» Jung, Doz. Dr. CxG, Der:Inhalt-der/Psychose, Akademischer Vortrag,<lb/> wehalten im Rathause der Stadt) Zürich \am16. Jänner 1908... Zweite,<lb/> dlrel einen Nachtrag ergänzte Auflage. (Zuerst erschienen als.3, Heft<lb/> der „Schriften zur angewändten Seelenkunde".) Preis M'375.<lb break="paragraph"/></p> <p>= 2 ejang; Döz. Dr.C. G.;Die Bedentung des.Vaters für daa-Schicksal des<lb/> 3 Einzelnen. (Sonderabdruck aus dem Jahrbuch fir psychonnalyt, u psycho<lb break="paragraph"/></p> <p>!patholög; Forschungva; 1. Band.) Als Separatabdruck vergriffen; Nur noch<lb/> in’ Band 1,2, Hälfte, des Jahrb, fir psychoanalyt, Forschungen zu haben.<lb break="paragraph"/></p> <p>Jung, Doz.:Dr. med, et jur, C. 6, Über Konflikte der kindlichen Seele.<lb/> (Sönderabäruck aus dem, Jaktbuch für psychoanalytische und psychopaihö<lb break="no"/></p> <p>ogisehe Forschungen, II. Band.) Zweite Auflage, Preis'M 4:15.<lb break="paragraph"/></p> <p>Jung, Dos. Dr: med, et jur. C.G, Wandlungen und’Symbole der Libldo<lb break="no"/>Beiträge zur Entwicklungsgeschichte des‘ Denkens, Als ,Sonderabdriick<lb/> ergriffen. Nur noch in Band Ill, 1: Hälfte, ünd“Bänd IV, 1. Hälfte,<lb/> des Jährbuches für psychoanalytische Forschungen zu haben,<lb break="paragraph"/></p> <p>Jung, Doz. Dr. med. et jur. C. G, ,Versuch einer Darsiellung der peycho<lb break="no"/></p> <p>&amp; % analytischen Theorie: Nenn Vorlesungen, gehklten in Nem York im<lb break="paragraph"/></p> <p>September 1912. Preis‘ M 9—, ;<lb/> Kaplan, Leö, Orundzüge der Psychoan<lb/> Kaplan, Leo, Piychoanalytische: Probleme. Preis M 12160. 5<lb/> “Kaplan, Leo, Hypnotlanns; Animismus und. Peycho janalyse. Histotisch<lb break="no"/>Ykritische Versuche, Preis M!1875,-.° - ns<lb/> x Loy DER, Paychotherapeutische Zeitiragen. Ein Briefwechsel mit Dr,<lb/> C.\G. Jung; Privatdozenten der Psychiaitie/im Zürich, Preis Ma.<lb/> Maeder, Dr, A, Über das Traumproblem. Nach einem am Kongresse der<lb/> Prschoanalytischen. Vereinigung; gehaltenen Vortrage, München,“ Sep<lb break="no"/>tember 1913,° (Sönderabilruck Aus) dem ,Jahrbuch für‘ pay choanalytische<lb/> und psychopalbölogische Forschungen, "Vi Band.) Preis M 315. =<lb/> = (ennleR, Grundzüge der Fließschen Periodenrechnung. Preis M 1250,<lb/> jater, Dr. Oskar, Die ,psychölogische-Enirätselung der religiösen<lb/> Olossolalle. „(Sonderabdrucie aus dem’Jahrbuch für: peychoanalytische,<lb break="paragraph"/></p> <p>1 N mind psytlhopathologische_,Forskhüngen, LIT; Band.) Preis, M 7180.<lb break="paragraph"/></p> <p>* rhsten, De!Oskar, "At alytische Untersuchungen über die Psychologie<lb break="paragraph"/></p> <p>ei ,des Hassea und der.Versöhnung. (Sanderabdruck aus dent Jahrbuch<lb break="paragraph"/></p> <p>188” poychöhnalytische ,und Bann. Forschungen, II, Band.)<lb break="paragraph"/></p> <p>z Preis M375, &gt; 3<lb break="paragraph"/></p> <p>Rank, 080,7 Das. Inzest:Motiv in. Dichlüng und Sage, Grundrnge, einer -!<lb break="paragraph"/></p> <p>Psychologie des dichterischen, Schaffens, Preis‘ M,37"5 : z<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__60193d6e-6044-48e3-92ec-30f40aedbe39"/>
+            <p>Schriften zur. angewandten Seelenkunde, Heranagesehen von Perl, Dr: x<lb/> Sigm# Freud: in Wien.<lb break="paragraph"/></p> <p>T. Heft. Der Wahn und die. Träume in’W. Jonsone- „bradiva”, Von Prof:<lb/> Dr. Sigm, Freud in,Wien, Zweite Aufinge, Preis M. 6:25,<lb/> Wunscherfällang und Symbolik. im Märchen, Eine Studie<lb break="paragraph"/></p> <p>= Dr. Franz Riklin, Vergriffen, Neuauflage in Vorberei ng:<lb/> inhalt der Paychose. Non Dr. Jung; Zweite ,Auflage,<lb/> gnlfen. Die/dritte Auflage ist. "außerhalb des Rahmens‘<lb/> „Schriften zur angewandten Seelenkunde” erschienen<lb/> Traum und Mythus. Eine Siudie der Völkerpsychologie, Vo;<lb/> Dr-Karl Abraham, Vergriffen, Nenanflage.in. ,Vorbereitun<lb/> Der A ron der, "Geburt des Helden, ,Versuch "einer psycht<lb break="paragraph"/></p> <p>erinnerung des Ya Yinei<lb/> * Di. Siem, Freud:in Wien, Zweite Auflage, ,Pre is.M<lb/> Die: Knaller des Grafen Ludw) In Zu<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>
